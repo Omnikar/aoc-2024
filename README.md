@@ -8,8 +8,8 @@ uiua day1.ua 2
 - [x] [Day 3](uiua/day3.ua)
 - [x] [Day 4](uiua/day4.ua)
 - [x] [Day 5](uiua/day5.ua)
-- [ ] Day 6
-- [ ] Day 7
+- [x] [Day 6](uiua/day6.ua)
+- [x] [Day 7](uiua/day7.ua)
 - [ ] Day 8
 - [ ] Day 9
 - [ ] Day 10
