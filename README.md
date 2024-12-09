@@ -11,7 +11,7 @@ uiua day1.ua 2
 - [x] [Day 6](uiua/day6.ua)
 - [x] [Day 7](uiua/day7.ua)
 - [x] [Day 8](uiua/day8.ua)
-- [ ] Day 9
+- [x] [Day 9](uiua/day9.ua)
 - [ ] Day 10
 - [ ] Day 11
 - [ ] Day 12
