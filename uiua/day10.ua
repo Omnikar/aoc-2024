@@ -5,11 +5,9 @@ AoCGet 2024 10
 
 A ← ⍉⊟°ℂ⁅ⁿ⇡4i
 
-F ← ▽=+1:⤚∩⊡◡(▽⊸∈♭₂⇡△,+A¤)
-G ← -:9⊡
-H ← =9⊡
+Next ← ▽=+1:⤚∩⊡◡(▽⊸∈♭₂⇡△,+A¤)
 
-Solve! ← /+≡(⧻^0⊙◌astarF G H)⊚=0⟜¤
+Solve! ← /+≡(⧻^0⊙◌pathNext(=₉⊡))⊚=0⟜¤
 
 Part₁ ← Solve!(◴≡◇⊣)
 Part₂ ← Solve!∘
