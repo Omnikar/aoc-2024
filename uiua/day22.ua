@@ -1,8 +1,6 @@
 # Experimental!
-# ~ "git: github.com/amatgil/steal-gift" ~ AoCGet
-# AoCGet 2024 22
-# steal-gift is currently bugged :(
-&fras "../inputs/2024-22.txt"
+~ "git: github.com/amatgil/steal-gift" ~ AoCGet
+AoCGet 2024 22
 
 ⊜⋕⊸≠@\n
 
