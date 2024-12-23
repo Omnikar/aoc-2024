@@ -2,12 +2,6 @@
 ~ "git: github.com/amatgil/steal-gift" ~ AoCGet
 AoCGet 2024 17
 
-# $ Register A: 2024
-# $ Register B: 0
-# $ Register C: 0
-# $ 
-# $ Program: 0,3,5,4,3,0
-
 °$"_\n\n_"
 ⊂0∩(⊜⋕∊⇡10⊸-@0)
 
